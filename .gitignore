@@ -80,3 +80,6 @@ DerivedDataCache/*
 
 # Makefile
 Makefile
+
+# Jetbrain files'
+.idea/
